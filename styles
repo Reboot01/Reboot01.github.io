@@ -1,0 +1,13 @@
+body {
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    background-color: black;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+p {
+    color: green;
+}
