@@ -1,13 +1,16 @@
-body {
+body 
+{
     font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    background-color: black;
+    background-color: white;
 }
 
-h1 {
-    color: lime;
-    text-align: center;
+h1 
+{
+    color: black;
 }
 
-p {
-    color: lime;
+p 
+{
+    color: black;
 }
+
